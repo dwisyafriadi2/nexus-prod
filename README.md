@@ -1,14 +1,14 @@
 # Nexus Prod
 ## Auto Install Nexus
-`` screen -S nexus
+`` 1. screen -S nexus
 ``
-`` git clone https://github.com/dwisyafriadi2/nexus-prod 
+`` 2. git clone https://github.com/dwisyafriadi2/nexus-prod 
 ``
-`` cd nexus-prod
+`` 3. cd nexus-prod
 ``
-`` chmod +x installnexus.sh
+`` 4. chmod +x installnexus.sh
 ``
-`` ./installnexus.sh
+`` 5. ./installnexus.sh
 ``
 ## Join Telegram Channel
 [Join Telegram Channel](https://t.me/dasarpemulung)
